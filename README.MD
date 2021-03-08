@@ -1,9 +1,6 @@
 <h1 align="center">Cool Library</h1>
 
-<div align="center">
-
 O projeto consiste em uma aplicação para gerenciar uma biblioteca fictícia, onde serão gerenciados os livros, categorias dos livros e autores.
-
 
 ## 📦 Instalação
 
